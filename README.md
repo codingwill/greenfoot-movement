@@ -1,4 +1,4 @@
 # Greenfoot Movement
 
-Movement kupu-kupu vertikal dan bergerak horizontal perlahan.
-Movement kumbang mengelilingi area world.
+Movement subclass **kupu-kupu** vertikal dan bergerak horizontal perlahan.<br>
+Movement subclass **kumbang** mengelilingi area world.
